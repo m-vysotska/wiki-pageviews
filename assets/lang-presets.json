@@ -1,0 +1,13 @@
+{
+  "_note": "Language-edition shortcuts for --langs. Ordering is approximate by total pageviews and only meant for scanning; always check the actual numbers in the output. Russian Wikipedia (ru) is intentionally excluded from this skill.",
+  "top10": ["en", "ja", "de", "es", "fr", "it", "zh", "pt", "pl", "nl"],
+  "top20": ["en", "ja", "de", "es", "fr", "it", "zh", "pt", "pl", "fa", "ar", "nl", "tr", "uk", "id", "he", "vi", "ko", "sv", "cs"],
+  "top40": ["en", "ja", "de", "es", "fr", "it", "zh", "pt", "pl", "fa", "ar", "nl", "tr", "uk", "id", "he", "vi", "ko", "sv", "cs", "fi", "hu", "th", "no", "ro", "el", "da", "hi", "bn", "ca", "sr", "bg", "ms", "sk", "hr", "lt", "sl", "et", "lv", "az"],
+  "eu": ["bg", "cs", "da", "de", "el", "en", "es", "et", "fi", "fr", "ga", "hr", "hu", "it", "lt", "lv", "mt", "nl", "pl", "pt", "ro", "sk", "sl", "sv"],
+  "cee": ["pl", "cs", "sk", "hu", "ro", "bg", "uk", "hr", "sl", "sr", "lt", "lv", "et"],
+  "nordics": ["sv", "no", "da", "fi", "is"],
+  "latam": ["es", "pt"],
+  "asia": ["ja", "zh", "ko", "hi", "id", "vi", "th", "ms", "bn", "fa", "tr", "he", "ar"],
+  "mena": ["ar", "fa", "tr", "he", "arz"],
+  "slavic": ["uk", "pl", "cs", "sk", "bg", "sr", "hr", "sl", "be", "mk", "bs"]
+}
